@@ -1,0 +1,10 @@
+package tp_git_1_java;
+
+public class Poney {
+	char race;
+	char couleurRobe;
+	int age;
+	char name;
+	int matricule;
+	
+}

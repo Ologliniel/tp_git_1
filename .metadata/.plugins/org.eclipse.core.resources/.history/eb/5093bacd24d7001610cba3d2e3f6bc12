@@ -1,0 +1,8 @@
+package tp_git_1_java;
+
+public class jockey {
+	char Name;
+	char Lastname;
+	char Rang;
+	char Sponsor;
+}
